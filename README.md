@@ -1,4 +1,5 @@
-Projeto de API REST com Spring Boot e PostgreSQL
+#Projeto de API REST com Spring Boot e PostgreSQL
+
 Bem-vindo ao projeto da disciplina de Aplicações Orientadas a Serviços! Este repositório contém uma API REST desenvolvida com Spring Boot e PostgreSQL, criada pelo talentoso grupo TechSquad. A equipe é composta por:
 
 Bruna Beatriz
