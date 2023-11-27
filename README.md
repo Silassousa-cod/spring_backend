@@ -44,3 +44,5 @@ Contribuições
 Contribuições são bem-vindas! Se você encontrar problemas, bugs ou melhorias potenciais, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 Divirta-se codificando e construindo serviços incríveis com Spring Boot! 😊
+
+Tamo junto!
